@@ -1,4 +1,4 @@
 bpos
 ====
 
-BUilding and Porting Operating Systems
+Building and Porting Operating Systems
